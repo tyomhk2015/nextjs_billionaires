@@ -7,3 +7,4 @@ Getting used to the following Next.js features.
 * Next Image
 * Next Head
 * Applying Global CSS and CSS modules.
+* Custom App (_app.js)
